@@ -1,0 +1,9 @@
+name: atividade05
+description: A Dart SMTP client example
+version: 1.0.0
+
+environment:
+  sdk: '3.7.2'
+
+dependencies:
+  mailer: ^6.0.1
