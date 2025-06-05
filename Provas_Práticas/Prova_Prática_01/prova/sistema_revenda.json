@@ -1,0 +1,36 @@
+{
+  "pedidoVenda": {
+    "codigo": "PDV001",
+    "data": "2025-06-05T19:01:31.437789",
+    "valorPedido": 4000.0,
+    "cliente": {
+      "codigo": 1,
+      "nome": "João Silva",
+      "tipoCliente": 0
+    },
+    "vendedor": {
+      "codigo": 1,
+      "nome": "Maria Souza",
+      "comissao": 5.5
+    },
+    "veiculo": {
+      "codigo": 101,
+      "descricao": "Carro Sedan 1.6",
+      "valor": 45000.0
+    },
+    "itensPedido": [
+      {
+        "sequencial": 1,
+        "descricao": "Rodas Esportivas",
+        "quantidade": 1,
+        "valor": 2500.0
+      },
+      {
+        "sequencial": 2,
+        "descricao": "Som Automotivo",
+        "quantidade": 1,
+        "valor": 1500.0
+      }
+    ]
+  }
+}
